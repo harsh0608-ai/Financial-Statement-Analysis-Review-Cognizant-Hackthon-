@@ -1,0 +1,83 @@
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================================
+# Secrets / Environment Variables
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# Node / Frontend
+# ==========================================
+node_modules/
+dist/
+build/
+.vite/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# ==========================================
+# Databases
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+
+# Shared demo database - KEEP
+!backend/dummy_finstatement.db
+
+# ==========================================
+# Uploaded / Generated Files
+# ==========================================
+backend/storage/
+backend/uploads/
+backend/output/
+backend/reports/
+
+# ==========================================
+# Backups / Local Dataset Copies
+# ==========================================
+backend_backup/
+wp514_images_extracted/
+
+# ==========================================
+# IDE
+# ==========================================
+.vscode/
+.idea/
+*.iml
+
+# ==========================================
+# OS
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Python Packaging
+# ==========================================
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+dataset_deliverable/**/storage/reports/

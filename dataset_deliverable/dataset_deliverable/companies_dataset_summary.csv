@@ -1,0 +1,61 @@
+company_id,company_name,industry,category,baseline_statement_id,current_statement_id,baseline_findings,current_findings,mathematical_accuracy,prior_year_tie_out,internal_consistency,spell_grammar,analytical_review,ratio_analysis,wp514_checklist,optional_disclosure_presence
+C001,Rove Infra Ltd,Real Estate,internal_consistency_error,6,7,11,27,0,0,1,0,16,3,6,1
+C002,Vertex Healthcare Pvt Ltd,EdTech,mathematical_error,8,9,28,30,2,0,0,0,18,3,6,1
+C003,Summit Properties Pvt Ltd,Retail,missing_disclosure,10,11,15,31,0,0,0,0,19,3,6,3
+C004,Terra Retail Ltd,FMCG,clean,12,13,13,28,0,0,0,0,19,3,6,0
+C005,Wren Agro Pvt Ltd,Pharmaceuticals,clean,14,15,12,28,0,0,0,1,18,3,6,0
+C006,Lotus Logistics Ltd,Agritech,mathematical_error,16,17,28,29,2,0,0,0,17,3,6,1
+C007,Yarrow Healthcare Pvt Ltd,Banking & Finance,missing_disclosure,18,19,28,31,0,0,0,0,19,3,6,3
+C008,Kite Energy Pvt Ltd,Renewable Energy,grammar_error,20,21,10,31,0,0,0,2,19,3,6,1
+C009,Ivory Finance Pvt Ltd,EdTech,prior_year_tie_out_error,22,23,25,33,0,4,0,0,19,3,6,1
+C010,Granite Manufacturing Pvt Ltd,IT Services,clean,24,25,28,28,0,0,0,0,19,3,6,0
+C011,Pulse Learning Ltd,FMCG,clean,26,27,28,28,0,0,0,0,19,3,6,0
+C012,Future Logistics Ltd,Retail,prior_year_tie_out_error,28,29,11,32,0,4,0,0,18,3,6,1
+C013,Frost Enterprises Ltd,EdTech,prior_year_tie_out_error,30,31,10,33,0,4,0,0,19,3,6,1
+C014,Wren Foods Ltd,Healthcare,ratio_highlight,32,33,25,28,0,0,0,0,18,3,6,1
+C015,Pioneer Chemicals Ltd,Agritech,prior_year_tie_out_error,34,35,12,32,0,4,0,0,18,3,6,1
+C016,Basalt Systems Ltd,Pharmaceuticals,ratio_highlight,36,37,10,27,0,0,0,0,17,3,6,1
+C017,Summit Foods Ltd,Manufacturing,clean,38,39,11,27,0,0,0,0,18,3,6,0
+C018,Maple Manufacturing Pvt Ltd,Healthcare,mathematical_error,40,41,10,31,2,0,0,0,19,3,6,1
+C019,Echo Pharma Ltd,Real Estate,missing_disclosure,42,43,12,30,0,0,0,0,18,3,6,3
+C020,Future Industries Ltd,Real Estate,clean,44,45,13,26,0,0,0,0,17,3,6,0
+C021,Wren Textiles Ltd,Banking & Finance,mathematical_error,46,47,16,30,2,0,0,0,18,3,6,1
+C022,Terra Technologies Pvt Ltd,EdTech,clean,48,49,10,28,0,0,0,0,19,3,6,0
+C023,Umber Chemicals Ltd,EdTech,grammar_error,50,51,26,29,0,0,0,2,17,3,6,1
+C024,Ember Retail Ltd,Logistics,mathematical_error,52,53,12,31,2,0,0,0,19,3,6,1
+C025,Horizon Solutions Pvt Ltd,Agritech,internal_consistency_error,54,55,11,29,0,0,1,0,18,3,6,1
+C026,Umber Finance Pvt Ltd,Banking & Finance,mathematical_error,56,57,11,31,2,0,0,0,19,3,6,1
+C027,Wisp Retail Ltd,EdTech,clean,58,59,9,28,0,0,0,0,19,3,6,0
+C028,Fern Infra Pvt Ltd,Healthcare,ratio_highlight,60,61,10,28,0,0,0,0,18,3,6,1
+C029,Copper Pharma Pvt Ltd,Real Estate,mathematical_error,62,63,27,31,2,0,0,0,19,3,6,1
+C030,Granite Enterprises Pvt Ltd,Manufacturing,missing_disclosure,64,65,16,31,0,0,0,0,19,3,6,3
+C031,Yarrow Agro Ltd,Retail,clean,66,67,24,28,0,0,0,1,18,3,6,0
+C032,Sunrise Energy Pvt Ltd,Manufacturing,mathematical_error,68,69,27,31,2,0,0,0,19,3,6,1
+C033,Kite Enterprises Pvt Ltd,Banking & Finance,internal_consistency_error,70,71,26,28,0,0,1,0,17,3,6,1
+C034,Nectar Foods Pvt Ltd,EdTech,mathematical_error,72,73,28,30,2,0,0,0,18,3,6,1
+C035,Solace Chemicals Pvt Ltd,FMCG,ratio_highlight,74,75,10,28,0,0,0,0,18,3,6,1
+C036,Onyx Infra Ltd,Retail,clean,76,77,25,28,0,0,0,0,19,3,6,0
+C037,Yarrow Chemicals Pvt Ltd,Agritech,prior_year_tie_out_error,78,79,11,33,0,4,0,0,19,3,6,1
+C038,Falcon Industries Ltd,Renewable Energy,internal_consistency_error,80,81,27,30,0,0,1,0,19,3,6,1
+C039,Vista Textiles Ltd,Manufacturing,prior_year_tie_out_error,82,83,27,33,0,4,0,0,19,3,6,1
+C040,Pioneer Energy Pvt Ltd,Pharmaceuticals,missing_disclosure,84,85,11,30,0,0,0,0,18,3,6,3
+C041,Bright Motors Pvt Ltd,Real Estate,clean,86,87,9,28,0,0,0,0,19,3,6,0
+C042,Summit Technologies Pvt Ltd,Agritech,ratio_highlight,88,89,10,29,0,0,0,0,19,3,6,1
+C043,Echo Manufacturing Pvt Ltd,Manufacturing,grammar_error,90,91,27,29,0,0,0,2,17,3,6,1
+C044,Vista Manufacturing Ltd,Manufacturing,clean,92,93,16,27,0,0,0,0,18,3,6,0
+C045,Fern Energy Ltd,EdTech,mathematical_error,94,95,27,30,2,0,0,0,18,3,6,1
+C046,Harbor Logistics Pvt Ltd,Agritech,prior_year_tie_out_error,96,97,16,33,0,4,0,0,19,3,6,1
+C047,Yarrow Motors Ltd,Retail,clean,98,99,28,27,0,0,0,0,18,3,6,0
+C048,Opal Enterprises Ltd,Retail,prior_year_tie_out_error,100,101,11,33,0,4,0,0,19,3,6,1
+C049,Prime Retail Ltd,Pharmaceuticals,missing_disclosure,102,103,11,29,0,0,0,0,17,3,6,3
+C050,Beacon Systems Ltd,Agritech,internal_consistency_error,104,105,27,29,0,0,1,0,18,3,6,1
+C051,Sunrise Retail Pvt Ltd,Logistics,clean,106,107,10,25,0,0,0,0,16,3,6,0
+C052,Kite Learning Pvt Ltd,Retail,grammar_error,108,109,11,31,0,0,0,2,19,3,6,1
+C053,Vertex Logistics Ltd,Healthcare,clean,110,111,28,26,0,0,0,0,17,3,6,0
+C054,Beacon Pharma Ltd,Renewable Energy,clean,112,113,16,27,0,0,0,0,18,3,6,0
+C055,Pioneer Healthcare Ltd,Banking & Finance,clean,114,115,15,28,0,0,0,0,19,3,6,0
+C056,Prime Manufacturing Pvt Ltd,Manufacturing,clean,116,117,11,27,0,0,0,0,18,3,6,0
+C057,Yarrow Energy Pvt Ltd,Logistics,ratio_highlight,118,119,12,29,0,0,0,0,19,3,6,1
+C058,Harbor Enterprises Pvt Ltd,Logistics,clean,120,121,12,26,0,0,0,0,17,3,6,0
+C059,Vista Manufacturing Pvt Ltd,Logistics,clean,122,123,23,27,0,0,0,0,18,3,6,0
+C060,Alpha Industries Ltd,Renewable Energy,internal_consistency_error,124,125,10,28,0,0,1,0,17,3,6,1

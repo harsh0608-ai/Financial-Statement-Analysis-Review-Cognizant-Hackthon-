@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+chromadb
+pytesseract
+Pillow
+pydantic>=2.0
+python-dotenv
+httpx
+pytest
+pytest-asyncio
